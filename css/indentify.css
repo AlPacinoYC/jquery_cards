@@ -1,0 +1,2 @@
+.num_name2:after{content:' ';display:inline-block; height:1.2rem;width:4.72rem; background:url(../images/indentify1.png) 0 0 no-repeat;background-size:contain;position:relative;top:5%;left:0.5rem;}
+.indentify{position:absolute;height:3.2rem;width:3.2rem;background:url(../images/indentify2.png) 0 0 no-repeat;right:0;background-size:contain;}
